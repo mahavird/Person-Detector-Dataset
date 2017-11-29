@@ -1,6 +1,6 @@
 # Person-Detector-Dataset
 
-I have created this custom datset from the ##### "Penn-Fudan Database for Pedestrian Detection and Segmentation". The original datset can be found at https://www.cis.upenn.edu/~jshi/ped_html/
+I have created this custom datset from the <b> "Penn-Fudan Database for Pedestrian Detection and Segmentation"</b> . The original datset can be found at https://www.cis.upenn.edu/~jshi/ped_html/
 
 The dataset in the current repository has been used to train my own Person Detector with [TensorFlow's Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection).In total, there are 170 images (153 are used for training and 17 for validation).
 
