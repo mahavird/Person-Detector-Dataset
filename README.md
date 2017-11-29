@@ -1,6 +1,8 @@
 # Person-Detector-Dataset
 
-This is a dataset that has been  to train my own Raccoon detector with [TensorFlow's Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection). Images are from Google and Pixabay. In total, there are 200 images (160 are used for training and 40 for validation).
+I have created this custom datset from the ##### "Penn-Fudan Database for Pedestrian Detection and Segmentation". The original datset can be found at https://www.cis.upenn.edu/~jshi/ped_html/
+
+The dataset in the current repository has been used to train my own Person Detector with [TensorFlow's Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection).In total, there are 170 images (153 are used for training and 17 for validation).
 
 ## Getting Started
 
