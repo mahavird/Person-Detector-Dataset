@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>FudanPed00051.png</filename>
+	<path>/home/ml/images/FudanPed00051.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>501</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>187</ymin>
+			<xmax>225</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>
